@@ -1,2 +1,2 @@
-# NLP-python
-Python NLP using Scikit-Learn, NLTK, Spacy, Textblob, Gensim, etc
+# NLP with Python
+Scikit-Learn, NLTK, Spacy, Gensim, Textblob and more
